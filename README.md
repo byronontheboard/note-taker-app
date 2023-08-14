@@ -1,7 +1,13 @@
 # Note Taker | ʕಠᴥಠʔつ✎
 
+With this web application, the user can enter a Title & Description for their notes. Additionally, the user is able to add, save, and delete the notes that they decide to log.
+
+![Note-Taker](https://github.com/byronontheboard/my-coding-quiz/assets/127366720/98bcdede-ce06-4777-adb0-855751ca3f69)
+
+----
+
 ## Acceptance Criteria
-As a __small business owner__, I __WANT__ to be able to write and save notes
+As a __small business owner__, I __WANT__ to be able to write and save notes,
 __SO THAT__ I can organize my thoughts and keep track of tasks I need to complete.
 
 ### *GIVEN* a note-taking application:
@@ -12,7 +18,7 @@ __SO THAT__ I can organize my thoughts and keep track of tasks I need to complet
 ***WHEN*** I click on the link to the notes page,
 - [x] ***THEN*** I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.
 
-***WHEN*** I enter a new note title and the note’s text
+***WHEN*** I enter a new note title and the note’s text,
 - [x] ***THEN*** a Save icon appears in the navigation at the top of the page.
 
 ***WHEN*** I click on the Save icon,
@@ -23,3 +29,8 @@ __SO THAT__ I can organize my thoughts and keep track of tasks I need to complet
 
 ***WHEN*** I click on the Write icon in the navigation at the top of the page,
 - [x] ***THEN*** I am presented with empty fields to enter a new note title and the note’s text in the right-hand column.
+
+----
+
+## Deployed Application
+
